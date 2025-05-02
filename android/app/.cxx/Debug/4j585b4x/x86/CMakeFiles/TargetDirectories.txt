@@ -1,0 +1,2 @@
+C:/Users/Steven Paredes/Documents/ProyectoFinalLibreriaUSFQ/android/app/.cxx/Debug/4j585b4x/x86/CMakeFiles/edit_cache.dir
+C:/Users/Steven Paredes/Documents/ProyectoFinalLibreriaUSFQ/android/app/.cxx/Debug/4j585b4x/x86/CMakeFiles/rebuild_cache.dir
