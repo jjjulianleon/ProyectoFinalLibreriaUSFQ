@@ -133,13 +133,13 @@ class HomeScreen extends StatelessWidget {
 
   // Función para lanzar Telegram
   Future<void> _launchTelegram() async {
-    final uri = Uri.parse('https://t.me/BibliotecaSecretaATRPBot');
+    final uri = Uri.parse('https://telegram.me/BibliotecaSecretaATRPBot');
     try {
       if (await canLaunchUrl(uri)) {
         await launchUrl(uri, mode: LaunchMode.externalApplication);
       } else {
         await launchUrl(
-          Uri.parse('https://t.me/BibliotecaSecretaATRPBot'),
+          Uri.parse('https://telegram.me/BibliotecaSecretaATRPBot'),
           mode: LaunchMode.externalApplication,
         );
       }
